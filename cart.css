@@ -1,0 +1,127 @@
+a{
+    color: #f08804;
+}
+
+body{
+    background-color: rgb(197, 193, 193);
+}
+hr{
+    color:black;
+    background-color: black;
+    margin-top: 5px;
+    padding-left: 1%;
+}
+.shopping_cart{
+font-size: 28px ;
+    line-height: 36px;
+
+    font-weight: 400 !important;
+    font-style: normal !important;
+    text-transform: none !important;
+    text-decoration: none !important;
+    padding-left: 1%;
+}
+.main-section{
+    background-color: white;
+    width:900px;
+    border-radius: 12px;
+    margin-top:30px;
+    margin-left: 2%;
+}
+.images{
+    padding-top: 2%;
+    padding-left: 1%;
+}
+.heading1{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom:150px;
+}
+.instock{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 145px;
+    right:165px;
+    color: var(--__N4QdChWb2ruQ, #067d62);
+    font-size: 12px !important;
+    line-height: 16px !important;
+
+}
+.delete{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 125px;
+    right:165px;
+    
+}
+.seconddiv{
+    background-color: white;
+    border-radius: 12px;
+    margin-top:30px;
+    height:300px;
+    width:250px;
+    position: fixed;
+    left:1000px;
+    bottom: 325px;
+    top:100px;
+
+}
+.priceofseconddiv{
+    font-size: 18px !important;
+    line-height: 24px ;
+    padding-top: 3%;
+    padding-left: 3%;
+    display: flex;
+    justify-content: center;
+}
+.delivery-date1{
+    padding-top: 8%;
+    padding-left: 3%;
+    color:#035226;
+    display: flex;
+    justify-content: center;
+}
+.proceedtobuy{
+    font-size:18px;
+    height:30px;
+    width:200px;
+    background-color: rgb(230, 217, 49);
+    border:none;
+    font-weight:500;
+    padding: 8px 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top:100px;
+    left:30px
+}
+.date-stuff{
+    position: relative;
+    left:650px;
+    bottom: 150px;
+}
+
+.shipping{
+    color:rgb(153, 144, 144);
+}
+.delivery-date{
+    color :#035226;
+}
+.pricecalculated{
+    font-weight: 600;
+}
+
+.shopping_cart{
+    position: relative;
+    top:20px;
+    left:30px;
+    background-color: white;
+    display: inline-block;
+    text-align: center;
+}
